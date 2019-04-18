@@ -22,4 +22,4 @@
 # THE SOFTWARE.
 #
 
-__version__ = '0.6.0'
+from .sm7045d import SM7045D
